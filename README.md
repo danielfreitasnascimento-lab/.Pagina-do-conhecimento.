@@ -1,2 +1,2 @@
-# Paginadoconhecimento
+
 Programação rápida 
